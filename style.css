@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.navbar-toggler-icon{
+    background-color: turquoise;
+}
+
+
+  .herosection{
+background-color: rgb(71, 64, 64);
+  }
+
+  herosection,p{
+color: rgba(96, 99, 100, 0.986);
+  }
+
+  li{
+    color: white;
+  }
+
+  h3{
+      color: rgb(91, 137, 235);
+  }
+
+  h4{
+      color: black;
+  }
+
+  p{
+    color:black;
+  }
+
+  .p{
+    background-color: rgb(159, 159, 238);
+  }
+  
+  h6{
+    color: white;
+  }
+
+  h5{
+      color: white;
+      background-color: rgb(48, 126, 241);
+      padding: 10px;
+  }
+
+li{
+  color: blue;
+}
+
+  button{
+      border-radius: 35px;
+      padding: 9px;
+      background-color: yellow;
+  }
+
+  
